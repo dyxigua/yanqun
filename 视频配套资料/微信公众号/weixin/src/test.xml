@@ -1,0 +1,84 @@
+<xml>
+	<!-- ToUserName 开发者微信号 FromUserName 发送方帐号（一个OpenID） CreateTime 消息创建时间 （整型）单位是秒 
+		MsgType text 消息类型 Content 文本消息内容 MsgId 消息id，64位整型 -->
+	<ToUserName><![CDATA[gh_48aa5a3c024d]]></ToUserName>
+	<FromUserName><![CDATA[oOI9Lw8GIP_7u71L1jr0_OAjJChE]]></FromUserName>
+	<CreateTime>1540888064</CreateTime>
+	<MsgType><![CDATA[text]]></MsgType>
+	<Content><![CDATA[/::)]]></Content>
+	<MsgId>6618063842107407853</MsgId>
+</xml>
+
+<!-- { Format=amr, MediaId=HGSTU96mxYXk_SO9WaQS7LtqmeHpVN-LvL1SG0qxCNV2GNaqBi86zVvdIbisfGEc, 
+	CreateTime=1540888834, ToUserName=gh_48aa5a3c024d, FromUserName=oOI9Lw8GIP_7u71L1jr0_OAjJChE, 
+	MsgType=voice, MsgId=6618067148801572864, Recognition=说实话，比如说老罗你长得真帅是吧。} 
+	{Location_X=29.511765, CreateTime=1540888938, Location_Y=105.787476, Label=重庆电信职业学院(双桥校区), 
+	Scale=16, ToUserName=gh_48aa5a3c024d, FromUserName=oOI9Lw8GIP_7u71L1jr0_OAjJChE, 
+	MsgType=location, MsgId=6618067595908824981} {MediaId=AKuXhbSrq5XtS_bJbUZEh3EiYYLuO0NCxSdTeVFAR65sB3sYh4mv6KzyWS1cx3FE, 
+	CreateTime=1540901366, ToUserName=gh_48aa5a3c024d, FromUserName=oOI9Lw8GIP_7u71L1jr0_OAjJChE, 
+	MsgType=image, PicUrl=http://mmbiz.qpic.cn/mmbiz_jpg/dtRJz5K066YczqeHmWFZSPINM5evWoEvW21VZcLzAtkCjGQunCicDubN3v9JCgaibKaK0qGrZp3nXKMYgLQq3M6g/0 
+	, MsgId=6618120973762383718} null
+
+{"button":[
+{"key":"1","name":"一级点击","type":"click"},
+{"name":"一级跳转","type":"view","url":"http://www.baidu.com"},
+{"name":"有子菜单","sub_button":[
+{"key":"31","name":"传图","sub_button":[],"type":"pic_photo_or_album"},
+{"key":"32","name":"点击","type":"click"},
+{"name":"网易新闻","type":"view","url":"http://news.163.com"}]}]}
+	
+	
+{MediaId=vuinMO4HW4c2pgUjG4t90wqzVNH8o5BObkeZ1NKEOahXqxfsPvtOHnIBdmevIG1c, CreateTime=1540907184, ToUserName=gh_48aa5a3c024d, FromUserName=oOI9Lw8GIP_7u71L1jr0_OAjJChE, 
+MsgType=image, 
+PicUrl=http://mmbiz.qpic.cn/mmbiz_jpg/dtRJz5K066YczqeHmWFZSPINM5evWoEvibwnuuQRbYySKYFZYb6LUFX8oUjKfg0oxlT8PObMXbibJHaZZMvF0Yag/0, MsgId=6618145961882113826}
+null
+	
+{
+           "touser":"oOI9Lw8GIP_7u71L1jr0_OAjJChE",
+           "template_id":"Vr2evC4M2i6z-A1-LHnFe2VQQ_xKJiGJN-yc5nfPYNA",         
+           "data":{
+                   "first": {
+                       "value":"您有新的反馈信息啦！",
+                       "color":"#abcdef"
+                   },
+                   "company":{
+                       "value":"罗帅帅公司",
+                       "color":"#fff000"
+                   },
+                   "time": {
+                       "value":"2000年11月11日",
+                       "color":"#1f1f1f"
+                   },
+                   "result": {
+                       "value":"面试通过",
+                       "color":"#173177"
+                   },
+                   "remark":{
+                       "value":"请和本公司人事专员联系！",
+                       "color":"#173177"
+                   }
+           }
+       }
+{"expire_seconds": 600, "action_name": "QR_STR_SCENE", "action_info": {"scene": {"scene_str": "llzs"}}}
+	
+{Ticket=gQGP8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyUDhsMnhmVWZkYjMxWENZcE5yY1QAAgSOutlbAwRYAgAA, 
+CreateTime=1540995738, EventKey=llzs, 
+Event=SCAN, ToUserName=gh_48aa5a3c024d, 
+FromUserName=oOI9Lw8GIP_7u71L1jr0_OAjJChE, 
+MsgType=event}
+null	
+
+{"subscribe":1,
+"openid":"oOI9Lw8GIP_7u71L1jr0_OAjJChE",
+"nickname":"香烟居士",
+"sex":1,
+"language":"zh_CN",
+"city":"成都",
+"province":"四川",
+"country":"中国",
+"headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ADaqWne392QCgibFHTg1JNs889wlC68iaWVcEYQ9cIVveMB8KibRKHbSwSMzCQfPEGwE0vjt71mbYicrHJQUd0ghr6nulibOLOLT7\/132",
+"subscribe_time":1540906404,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+
+
+	 -->
+
